@@ -1,0 +1,8 @@
+{
+  "name": "Remix APEX Textile Loom \u0026 Weaving Suite",
+  "description": "Oracle APEX weaving management system for tracking loom productivity, thread inventory, and complex pattern production cycles with real-time dashboards and automated shift reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
